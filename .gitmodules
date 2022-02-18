@@ -1,0 +1,3 @@
+[submodule "turtlebot3_manipulation_simulations"]
+	path = turtlebot3_manipulation_simulations
+	url = /home/abrao/catkin_ws/src/turtlebot3_manipulation_simulations

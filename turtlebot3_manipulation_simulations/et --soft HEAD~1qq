@@ -1,0 +1,70 @@
+* [33mff7cef3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m Change world to house
+*   [33m212bd64[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge pull request #12 from babakc/patch-1
+[32m|[m[33m\[m  
+[32m|[m * [33mf34e2ce[m Typo in turtlebot3_manipulation_gazebo.launch
+[32m|[m[32m/[m  
+*   [33m0471cdf[m Merge pull request #11 from ROBOTIS-GIT/develop
+[34m|[m[35m\[m  
+[34m|[m * [33m8510392[m[33m ([m[1;31morigin/develop[m[33m)[m modified launch files in gazebo
+[34m|[m * [33m1459c29[m removed  mimic controller plugin package
+[34m|[m * [33m2770a60[m updated gazebo pkg
+[34m|[m *   [33m38b781e[m Merge pull request #10 from ROBOTIS-GIT/master
+[34m|[m [36m|[m[34m\[m  
+[34m|[m [36m|[m[34m/[m  
+[34m|[m[34m/[m[36m|[m   
+* [36m|[m [33m6beddc9[m updated launch file
+* [36m|[m [33m4db8c06[m fixed wheel slip bug
+* [36m|[m [33me73fece[m Update controller_utils.launch
+* [36m|[m [33m64d26d7[m Merge pull request #9 from ROBOTIS-GIT/develop
+[1;32m|[m[36m\[m[36m|[m 
+[1;32m|[m * [33m0b29504[m updated config files
+[1;32m|[m * [33ma59f835[m added pid gains to arm controller
+* [1;33m|[m [33me4237c8[m Merge pull request #8 from ROBOTIS-GIT/develop
+[1;34m|[m[1;33m\[m[1;33m|[m 
+[1;34m|[m * [33m70340c6[m fixed name tb -> turtlebot3
+[1;34m|[m * [33m1e83d04[m changed gripper position -> effort controller
+* [1;35m|[m [33m33194a7[m Merge pull request #7 from ROBOTIS-GIT/develop
+[1;36m|[m[1;35m\[m[1;35m|[m 
+[1;36m|[m * [33mf7e3b32[m Updated gazebo pkg
+* [31m|[m [33mf95956e[m Merge pull request #6 from ROBOTIS-GIT/develop
+[32m|[m[31m\[m[31m|[m 
+[32m|[m * [33m6c42d4d[m changed name tb3_omx -> manipulation
+[32m|[m *   [33m1557b2d[m Merge pull request #5 from ROBOTIS-GIT/feature-refactoring
+[32m|[m [34m|[m[35m\[m  
+[32m|[m [34m|[m * [33m4fafa79[m Updated package.xml files
+[32m|[m [34m|[m * [33mad1f397[m added turtlebot3_manipulation_gui
+[32m|[m [34m|[m * [33m410969f[m changed package name to turtlebot3_manipulation
+[32m|[m [34m|[m * [33m57018dd[m removed room demo related files
+[32m|[m [34m|[m * [33m7c0b16d[m changed p_controller to trj_controller
+[32m|[m [34m|[m * [33m07b17d8[m added gripper_controller
+[32m|[m [34m|[m * [33m2286a6d[m changed travis email addr
+[32m|[m [34m|[m * [33m4abce58[m removed namespace
+[32m|[m [34m|[m[34m/[m  
+* [34m|[m [33m1b0d86e[m Merge pull request #3 from ROBOTIS-GIT/develop
+[36m|[m[34m\[m[34m|[m 
+[36m|[m * [33mbbc4ac8[m fixed tf, camera bugs
+[36m|[m * [33m32f2dbc[m fixed moveit interactive marker bug
+[36m|[m * [33m719465e[m updated joint controller
+[36m|[m[36m/[m  
+* [33mebe13dd[m[33m ([m[1;33mtag: 1.1.0[m[33m, [m[1;31morigin/melodic-devel[m[33m, [m[1;31morigin/kinetic-devel[m[33m)[m updated the CHANGELOG and version to release binary packages
+*   [33m0befdc7[m Merge pull request #2 from ROBOTIS-GIT/develop
+[1;32m|[m[1;33m\[m  
+[1;32m|[m * [33mdc833e8[m add yaw arguments
+[1;32m|[m * [33mf81273f[m delete yaw
+[1;32m|[m * [33me6cac53[m change init position
+[1;32m|[m * [33m1e19418[m update pid gain
+[1;32m|[m * [33m97cda53[m modified name
+[1;32m|[m * [33mb595620[m add pid gain for gazebo controller
+[1;32m|[m * [33m4102cf0[m add param
+[1;32m|[m * [33mf4162a7[m add gripper sub publisher
+[1;32m|[m * [33mb213b36[m change controller
+[1;32m|[m * [33m965dbcc[m add model_5
+[1;32m|[m * [33m3b8d084[m change ar_marker model
+* [1;33m|[m   [33mfbb6734[m Merge pull request #1 from ROBOTIS-GIT/kinetic-devel
+[1;33m|[m[1;35m\[m [1;33m\[m  
+[1;33m|[m [1;35m|[m[1;33m/[m  
+[1;33m|[m[1;33m/[m[1;35m|[m   
+[1;33m|[m * [33m2610308[m[33m ([m[1;33mtag: 1.0.0[m[33m)[m updated the CHANGELOG and version to release binary packages
+[1;33m|[m * [33m92d2822[m updated the CHANGELOG and version to release binary packages
+[1;33m|[m[1;33m/[m  
+* [33m277ab6f[m first commit
